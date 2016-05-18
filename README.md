@@ -1,0 +1,1 @@
+In this aplication you will be able to learn the rules of the game named backgammon or if you already know them to test your skills with a little quiz and you will recive some tips to take your game to the ext level.
